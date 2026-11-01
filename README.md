@@ -24,26 +24,28 @@ Eu chamo Pedro Mendes, tenho 22 anos e sou natural de Brasília - DF, curso enge
 ---
 
 ### 🤖 Linguagens e Tecnologias
+      
+          
 <img
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
+    alt="java"
+    title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
 src = " https://devicon-website.vercel.app/api/java/original.svg" 
 />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
+    alt="spring boot"
+    title="spring boot" 
     width="30px" 
     style="padding-right: 10px;" 
 src = " https://devicon-website.vercel.app/api/spring/original.svg " >
 
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
+    alt="SQL"
+    title="SQL" 
     width="30px" 
     style="padding-right: 10px;" src = " https://devicon-website.vercel.app/api/postgresql/original.svg " > 
     <img 
@@ -60,3 +62,5 @@ src = " https://devicon-website.vercel.app/api/spring/original.svg " >
 ### 📊 Estatísticas
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=pedroxq&theme=dark&show_icons=true&include_all_commits=true&locale=pt-br)](https://github.com/stats-organization/github-stats-extended)
+
+
